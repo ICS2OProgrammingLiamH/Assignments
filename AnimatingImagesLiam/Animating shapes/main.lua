@@ -3,5 +3,9 @@
 -- main.lua
 --
 -----------------------------------------------------------------------------------------
+	
+local backgroundSound
+local backgroundSoundChannel
 
--- Your code here
+
+
