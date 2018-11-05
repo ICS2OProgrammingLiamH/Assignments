@@ -199,7 +199,7 @@ local function NumericFieldListener( event )
 end
 	
 
-AskQuestion()
+
 
 
 local function UpdateTime()
